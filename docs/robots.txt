@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://xingruiqiang.github.io/Toward-the-Failures/sitemap.xml

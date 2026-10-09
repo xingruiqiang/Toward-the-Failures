@@ -29,10 +29,10 @@
 
 ## 在线阅读
 
-把本仓库发布到 GitHub Pages 后，访问：
+在线阅读（GitHub Pages）：
 
 ```
-https://<你的用户名>.github.io/<仓库名>/
+https://xingruiqiang.github.io/Toward-the-Failures/
 ```
 
 ---
@@ -91,9 +91,8 @@ git push -u origin main
 
 然后在 **Settings → Pages** 里把文件夹选成 **/ (root)**。
 
-> 部署完成后，建议把 `docs/sitemap.xml` 里的
-> `https://YOUR-USERNAME.github.io/YOUR-REPO/` 替换成你的真实网址，
-> 便于搜索引擎收录。
+> `sitemap.xml` / `robots.txt` 已按真实网址
+> `https://xingruiqiang.github.io/Toward-the-Failures/` 生成，便于搜索引擎收录。
 
 ---
 
